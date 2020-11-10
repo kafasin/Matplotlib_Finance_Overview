@@ -1,0 +1,5 @@
+Package                                           Version
+------------------------------------------------- -----------
+matplotlib                                        3.3.2
+mplfinance                                        0.12.7a0
+pandas                                            1.1.4
