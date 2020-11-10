@@ -1,5 +1,5 @@
-Quick Overview on Matplotlib Finance Module
+# Quick Overview on Matplotlib Finance Module
 
-Modules:
+## Modules:
     - mplfinance
     - pandas
